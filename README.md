@@ -1,9 +1,5 @@
 # T-PSP-700
 
-###### Ce repository contient un cahier des charges sous forme de 2 documents qui va expliquer les spécifications du projet.
-
-###### Il y a un document expliquant les besoins d'un utilisateur (doc-utilisateur.docx).
-
-###### Puis une documentation technique expliquant les besoins et les technologies utilisées pour la réalisation de ce projet (doc-technique.docx)
-
-###### Et enfin , une vidéo de présentation du projet
+###### Ce projet sera une app-mobile permettant à un utilisateur de rentrer ses vêtements dans l’application. 
+###### Une fois son dressing intégré, en fonction de la localisation et de la météo, un bot proposera à l’utilisateur plusieurs vêtements adéquats en fonction de la température et de la météo (des bottes et un manteau s’il pleut ou un t-shirt et des baskets s’il fait beau).
+###### Le téléchargement de l’application sera gratuit.
