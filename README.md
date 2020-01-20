@@ -1,5 +1,4 @@
 # T-PSP-700
 
-###### Ce projet sera une app-mobile permettant à un utilisateur de rentrer ses vêtements dans l’application. 
-###### Une fois son dressing intégré, en fonction de la localisation et de la météo, un bot proposera à l’utilisateur plusieurs vêtements adéquats en fonction de la température et de la météo (des bottes et un manteau s’il pleut ou un t-shirt et des baskets s’il fait beau).
-###### Le téléchargement de l’application sera gratuit.
+###### Que diriez-vous d'avoir une application Mobile permettant de vous proposer chaque matin une façon de vous habiller en fonction de la météo et de la localisation ?
+###### Avec DressMeUp, vous pouvez intégrer votre dressing pour que l'application puisse vous ressortir un style vestimentaire choisi intelligement avec vos vêtements.
